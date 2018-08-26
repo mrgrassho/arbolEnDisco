@@ -1,6 +1,6 @@
-# ¿Que hace esto?
+# ¿Que es esto?
 
-Es un programa que a partir de una estructura hardcodeada construye un indice (sobre un archivo) con una estructura de [árbol binario AVL](https://es.wikipedia.org/wiki/%C3%81rbol_AVL).
+Es un programa que construye un indice (sobre un archivo) con una estructura de [árbol binario AVL](https://es.wikipedia.org/wiki/%C3%81rbol_AVL). 
 
 ### Modo de compilación
 ```make
